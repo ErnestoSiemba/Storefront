@@ -3,6 +3,7 @@
 *.pyc
 *.lock
 Pipfile
+pipfile.lock
 __pycache__
 db.sqlite3
 media
