@@ -1,9 +1,6 @@
-*.log
-*.pot
-*.pyc
-*.lock
-Pipfile
-pipfile.lock
-__pycache__
-db.sqlite3
-media
+storefront/__pycache__
+playground/__pycache__
+store/__pycache__
+store_custom/__pycache__
+tags/__pycache__
+likes/__pycache__
