@@ -19,6 +19,7 @@ class UserAdmin(BaseUserAdmin):
             },
         ),
     )
+    
 
 
 class TagInline(GenericTabularInline):
